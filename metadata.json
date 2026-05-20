@@ -1,0 +1,6 @@
+{
+  "name": "Presente y Pretérito Perfecto",
+  "description": "An interactive, elegant presentation of two Spanish texts comparing Present and Past tenses, with side-by-side comparison, audio reading, and detailed language insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
